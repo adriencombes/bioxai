@@ -1,0 +1,2 @@
+HUGGINGFACE_TOKEN='your_huggingface_token'
+DATASET_DIR='/absolute/dataset/directory/path'
